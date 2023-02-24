@@ -1,0 +1,288 @@
+[[Woff2]]
+arch = "aarch64"
+git-tree-sha1 = "97e5165d3b82e968dc4247cf8e8565c39245a727"
+os = "macos"
+
+    [[Woff2.download]]
+    sha256 = "6fe12539d5063a28d9f99919a1f8db226b45ffa198dc1c5bb3507c7da99f5ad5"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.aarch64-apple-darwin.tar.gz"
+[[Woff2]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6c2e75b52297ab5594d0182f7c55800c5930a451"
+libc = "glibc"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "7cb4968ae59ea9478ed6b27c7abd74980c3d5e2f89cc6bf1049532b9f1748788"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[Woff2]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "59114bd541289b9db1a82630b1dee52f96a68943"
+libc = "glibc"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "5f6b10ef6b25685bdbcec77227bcb46465978f5cb1cd93731364805f4d0e7de6"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Woff2]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7351548f1871520a49bd08e2f0d5e7331ccd059d"
+libc = "musl"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "8e18fce23e2dae7248957a3104df115545a2f4fd3dde975e92af5ffb7916288c"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.aarch64-linux-musl-cxx03.tar.gz"
+[[Woff2]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "559e92d3b4ccd3176e0f498c63496dc99baf4371"
+libc = "musl"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "d22e1f70285bda0eeb7a89a89a1a6c78d4715379e24570503ee20d3d572f5c4b"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.aarch64-linux-musl-cxx11.tar.gz"
+[[Woff2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c69bcdc3cfa5eb75d982d4037ecaaa7f5d535f57"
+libc = "glibc"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "68300b9b523925cda0ad20a4994c602d7abfc69119f15da090596eb10ab1b3b2"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Woff2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6820dc7c194ebe2b832d640f761cf144a65bfcda"
+libc = "glibc"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "573ac366a00fb39255e8dcb595079ffcc40b1f4afb98a9f2dc09e2f60d530102"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Woff2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bf21a8a24d5671e920d5921ce987b0acf3d4408c"
+libc = "musl"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "2bf5abe5c20b348844c78adec0af117ae344d119dfa449312582a558c676326f"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Woff2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "337fb2d95ab45eaf91a0a33ba183685f73f609c9"
+libc = "musl"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "d3b4140bcafb1217b85aa303ebc2fe87564b731357038c2ea3d719e257990203"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Woff2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c1e690f537cdcf7723ec9b4abe16adecfa44b06e"
+libc = "glibc"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "d3d4b464eb16ec189e494664460f76fc46a4b9150011239d10c243c9aa8cd933"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Woff2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2267e3485370e23c24d7090c41ac15ea6dde4edd"
+libc = "glibc"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "2bf5b1c67883c8451694145bbf1414343b71abe604675e013f9176ba63832c16"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Woff2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "47d4ef1709fd1097cf97fdec1e35548e0049da4f"
+libc = "musl"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "920a3e9d0d88eb27c522a7d8143082d7a53736ff4a401b229c9e54091ff4b49e"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Woff2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1a3c6320943f46fa3f04ecb56fbc1de63177cf56"
+libc = "musl"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "134035566f5d14e8d17b505e862905ac381f99eb765f8e65c1a45b39e2ba3ecb"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Woff2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dbcb182f29f24ea903d465cf3a48f63c8f831851"
+libc = "glibc"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "ef468a573b66bf0c4016a23918a5d5dcbc4caffb9d0cdf4e2996bcd03fb7cd32"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.i686-linux-gnu-cxx03.tar.gz"
+[[Woff2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1f72a169d2d4cd319fa138e07faa93be65d24aea"
+libc = "glibc"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "906a5ef955746b003dcdf4840f894401aeb907730ca05f79784627f4fb8836ba"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.i686-linux-gnu-cxx11.tar.gz"
+[[Woff2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f67c8a433f8d2f5edc2895717ed829f2282e83c9"
+libc = "musl"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "0a8cfdf2859dab0b17799525e3690b07e154b6ed109d352cd352a612c57c97bd"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.i686-linux-musl-cxx03.tar.gz"
+[[Woff2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6ab9f4dcd7082a0f93843881f391f013dff3723b"
+libc = "musl"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "967acec0febcdc8e61477775e1d02d785aa40ab5c1cd79a72d0815eb343e350d"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.i686-linux-musl-cxx11.tar.gz"
+[[Woff2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c6745f257aec0e114c933519746158b5c68908c5"
+os = "windows"
+
+    [[Woff2.download]]
+    sha256 = "8eb34020e67e182b2b2919dc23c017cea67d61ba365f261f89370676621a83c5"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.i686-w64-mingw32-cxx03.tar.gz"
+[[Woff2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5b4069cdbd53fcd8180431b5da92d321184f61d7"
+os = "windows"
+
+    [[Woff2.download]]
+    sha256 = "dd873ef48100d07215ee04eb9e32f93a63d819ea4a80f3ce64e47941a809dc3c"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.i686-w64-mingw32-cxx11.tar.gz"
+[[Woff2]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b3aa05a43c9016ed6fceacb3beff71b266b99c81"
+libc = "glibc"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "2234cdff2bf5c49384ebf717f4616e91550bc50dfbd5afb2fabe905910634caa"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Woff2]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "01e04d8500fb8db8fcc9c6053d88ad0213e4601d"
+libc = "glibc"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "5e20761c2ea64de6638ac308fadb27fe9a2f6e0257972da52dc6422393188788"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Woff2]]
+arch = "x86_64"
+git-tree-sha1 = "12d3dafea761598f97e7d49ae69377e6c591fbbe"
+os = "macos"
+
+    [[Woff2.download]]
+    sha256 = "bc271ecb64a0a5e3da00cf7d868df80ac8bceaca20ae651f6b19f1f15a9050da"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.x86_64-apple-darwin.tar.gz"
+[[Woff2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a9e67e2bb1d01d1fdfeaf9d9222959046cea02e7"
+libc = "glibc"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "8b36151d4a16b70146e174cb17e1af411bf924710234e4e8a824e8b2f59d3066"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[Woff2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "90d1995f23dc70029d4223c049d5850f0b207e75"
+libc = "glibc"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "8b0086d024600be2afffde195a94655efd4e9361a13410113e8c05b9ce79aaac"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Woff2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "888eb40a3ac5d970522578872724f100d5618ae2"
+libc = "musl"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "8d8a1ea5542f0d45aa689677875327ee03abc1a547cb3a5b0c72ebe5e4c41941"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.x86_64-linux-musl-cxx03.tar.gz"
+[[Woff2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4310d6101dd0a7e47c332438a6f7f43a6e34db43"
+libc = "musl"
+os = "linux"
+
+    [[Woff2.download]]
+    sha256 = "c1e1e9edc672c50cced2a3d48b649e079fc27db962a363bd702e74bbad81df43"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.x86_64-linux-musl-cxx11.tar.gz"
+[[Woff2]]
+arch = "x86_64"
+git-tree-sha1 = "32c86d7784773c6fe2c61b06abf2d1677b576a87"
+os = "freebsd"
+
+    [[Woff2.download]]
+    sha256 = "123ecce837fb1f1536e815c3a389b24dd33e31029b33b79da501b606b0138719"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.x86_64-unknown-freebsd.tar.gz"
+[[Woff2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9862162eec7b1679eb522d9fbeab03f814c381be"
+os = "windows"
+
+    [[Woff2.download]]
+    sha256 = "afaad036aea262430ff17bcb1675bae8647896cb00a963567f9d8a3c38dec1bd"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Woff2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "83f8f2a1d1cb99ed1b81f91443adce323b6e49e9"
+os = "windows"
+
+    [[Woff2.download]]
+    sha256 = "94a2eef23b99bac7dacf218e78c93501bc941cf054245e153f03d4625b592737"
+    url = "https://github.com/JuliaBinaryWrappers/Woff2_jll.jl/releases/download/Woff2-v1.0.2+0/Woff2.v1.0.2.x86_64-w64-mingw32-cxx11.tar.gz"
